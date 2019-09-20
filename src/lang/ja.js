@@ -77,7 +77,7 @@ export default {
     logIn: 'ログイン',
     username: 'ユーザ名',
     password: 'パスワード',
-    any: 'password',
+    forgetPass: 'ForgetPassword',
     thirdparty: '外部IDでログイン',
     thirdpartyTips: 'ローカル環境ではログインできません。実装が必要です。'
   },

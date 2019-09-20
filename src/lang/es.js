@@ -77,7 +77,7 @@ export default {
     logIn: 'Acceso',
     username: 'Usuario',
     password: 'Contraseña',
-    any: 'nada',
+    forgetPass: 'ForgetPassword',
     thirdparty: 'Conectar con',
     thirdpartyTips: 'No se puede simular en local, así que combine su propia simulación de negocios. ! !'
   },
