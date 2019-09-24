@@ -79,7 +79,9 @@ export default {
     password: 'パスワード',
     forgetPass: 'ForgetPassword',
     thirdparty: '外部IDでログイン',
-    thirdpartyTips: 'ローカル環境ではログインできません。実装が必要です。'
+    thirdpartyTips: 'ローカル環境ではログインできません。実装が必要です。',
+    usernameTips: '请输入正确的用户名',
+    passwordTips: '密码不能少于6位'
   },
   documentation: {
     documentation: 'ドキュメント',

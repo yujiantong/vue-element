@@ -79,7 +79,9 @@ export default {
     password: 'Contraseña',
     forgetPass: 'ForgetPassword',
     thirdparty: 'Conectar con',
-    thirdpartyTips: 'No se puede simular en local, así que combine su propia simulación de negocios. ! !'
+    thirdpartyTips: 'No se puede simular en local, así que combine su propia simulación de negocios. ! !',
+    usernameTips: '请输入正确的用户名',
+    passwordTips: '密码不能少于6位'
   },
   documentation: {
     documentation: 'Documentación',

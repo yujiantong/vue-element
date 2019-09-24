@@ -79,7 +79,9 @@ export default {
     password: 'Password',
     forgetPass: 'ForgetPassword',
     thirdparty: 'Or connect with',
-    thirdpartyTips: 'Can not be simulated on local, so please combine you own business simulation! ! !'
+    thirdpartyTips: 'Can not be simulated on local, so please combine you own business simulation! ! !',
+    usernameTips: 'Please enter the correct user name',
+    passwordTips: 'The password can not be less than 6 digits'
   },
   documentation: {
     documentation: 'Documentation',
